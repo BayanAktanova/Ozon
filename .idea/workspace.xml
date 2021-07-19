@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2b7875f-892d-4f82-bdd0-4c7ef6683c7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vQxdvAjOMPv0gU3aevJJ3gp7IN" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.XVIISearchNotSortedSubarray">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="IChainOfOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IChainOfOnes" />
+      <module name="ozon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IIIDeleteWhiteSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IIIDeleteWhiteSpace" />
+      <module name="ozon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IIParkingLot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IIParkingLot" />
+      <module name="ozon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VIISubarrayMaxSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VIISubarrayMaxSum" />
+      <module name="ozon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XVIISearchNotSortedSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XVIISearchNotSortedSubarray" />
+      <module name="ozon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IIParkingLot" />
+      <item itemvalue="Application.IChainOfOnes" />
+      <item itemvalue="Application.IIIDeleteWhiteSpace" />
+      <item itemvalue="Application.VIISubarrayMaxSum" />
+      <item itemvalue="Application.XVIISearchNotSortedSubarray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.XVIISearchNotSortedSubarray" />
+        <item itemvalue="Application.VIISubarrayMaxSum" />
+        <item itemvalue="Application.IIIDeleteWhiteSpace" />
+        <item itemvalue="Application.IChainOfOnes" />
+        <item itemvalue="Application.IIParkingLot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2013" y="-985" width="2375" height="1215" key="DiffContextDialog" timestamp="1626590694547">
+      <screen x="1920" y="-1078" width="2560" height="1400" />
+    </state>
+    <state x="2013" y="-985" width="2375" height="1215" key="DiffContextDialog/0.0.1536.824/1920.-1078.2560.1400@1920.-1078.2560.1400" timestamp="1626590694547" />
+    <state width="2539" height="376" key="GridCell.Tab.0.bottom" timestamp="1626607812374">
+      <screen x="1920" y="-1078" width="2560" height="1400" />
+    </state>
+    <state width="1515" height="65" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-1078.2560.1400@0.0.1536.824" timestamp="1626602625996" />
+    <state width="2539" height="376" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-1078.2560.1400@1920.-1078.2560.1400" timestamp="1626607812374" />
+    <state width="2539" height="376" key="GridCell.Tab.0.center" timestamp="1626607812373">
+      <screen x="1920" y="-1078" width="2560" height="1400" />
+    </state>
+    <state width="1515" height="65" key="GridCell.Tab.0.center/0.0.1536.824/1920.-1078.2560.1400@0.0.1536.824" timestamp="1626602625995" />
+    <state width="2539" height="376" key="GridCell.Tab.0.center/0.0.1536.824/1920.-1078.2560.1400@1920.-1078.2560.1400" timestamp="1626607812373" />
+    <state width="2539" height="376" key="GridCell.Tab.0.left" timestamp="1626607812373">
+      <screen x="1920" y="-1078" width="2560" height="1400" />
+    </state>
+    <state width="1515" height="65" key="GridCell.Tab.0.left/0.0.1536.824/1920.-1078.2560.1400@0.0.1536.824" timestamp="1626602625995" />
+    <state width="2539" height="376" key="GridCell.Tab.0.left/0.0.1536.824/1920.-1078.2560.1400@1920.-1078.2560.1400" timestamp="1626607812373" />
+    <state width="2539" height="376" key="GridCell.Tab.0.right" timestamp="1626607812374">
+      <screen x="1920" y="-1078" width="2560" height="1400" />
+    </state>
+    <state width="1515" height="65" key="GridCell.Tab.0.right/0.0.1536.824/1920.-1078.2560.1400@0.0.1536.824" timestamp="1626602625995" />
+    <state width="2539" height="376" key="GridCell.Tab.0.right/0.0.1536.824/1920.-1078.2560.1400@1920.-1078.2560.1400" timestamp="1626607812374" />
+    <state width="2539" height="376" key="GridCell.Tab.1.bottom" timestamp="1626607783330">
+      <screen x="1920" y="-1078" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="376" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-1078.2560.1400@1920.-1078.2560.1400" timestamp="1626607783330" />
+    <state width="2539" height="376" key="GridCell.Tab.1.center" timestamp="1626607783330">
+      <screen x="1920" y="-1078" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="376" key="GridCell.Tab.1.center/0.0.1536.824/1920.-1078.2560.1400@1920.-1078.2560.1400" timestamp="1626607783330" />
+    <state width="2539" height="376" key="GridCell.Tab.1.left" timestamp="1626607783330">
+      <screen x="1920" y="-1078" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="376" key="GridCell.Tab.1.left/0.0.1536.824/1920.-1078.2560.1400@1920.-1078.2560.1400" timestamp="1626607783330" />
+    <state width="2539" height="376" key="GridCell.Tab.1.right" timestamp="1626607783330">
+      <screen x="1920" y="-1078" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="376" key="GridCell.Tab.1.right/0.0.1536.824/1920.-1078.2560.1400@1920.-1078.2560.1400" timestamp="1626607783330" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/XVIISearchNotSortedSubarray.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
